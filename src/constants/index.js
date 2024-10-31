@@ -1,7 +1,7 @@
 /**
  * Configurações da API
  */
-export const API_URL = 'https://linearcalc-back.onrender.com';
+export const API_URL = 'https://linearcalc-back.onrender.com/api';
 
 /**
  * Constantes para análise de correlação
